@@ -12,6 +12,7 @@ If the variables are set in this way value of `ydata` is correlated but importan
 Try the new exercise in the panel on the left to see if you have got the idea.  As always if you press you will see a graph with some lines on. Your task, once again, is to generate 100 random points that fall between the lines.  This time though the equations of the two lines are:
 
 y = 2x + 0.5
+
 y = 2x - 0.5
 
 As always you should not need to use any conditional (if) statements to complete this task. 
